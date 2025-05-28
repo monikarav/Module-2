@@ -35,13 +35,13 @@ else:
 
 ### OUTPUT
 
-```
+
 ![image](https://github.com/user-attachments/assets/8142c482-51a3-4d3c-9d41-a837cd904212)
 
-```
+
 
 ### RESULT
 
-```
+
 Thus the Python program to check the relation between two numbers — whether one number is greater than, equal to, or lesser than another — using a lambda function is verified
-```
+
