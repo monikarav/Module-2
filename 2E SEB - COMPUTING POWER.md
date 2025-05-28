@@ -21,8 +21,15 @@ To write a Python program to compute the power of a given number using an approp
 
 ### PROGRAM
 
+a=int(input())
+b=int(input())
+c=a**b
+print(c)
+
 ```
 ```
 ### OUTPUT
+![POWER](https://github.com/user-attachments/assets/de9f1d7d-43dc-4fc0-a81a-3cf739ee6a47)
+
 
 ### RESULT
